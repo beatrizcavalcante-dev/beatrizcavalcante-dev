@@ -1,30 +1,66 @@
-## Hello, eu sou a Beatriz! 👋 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07060f,100:2d1c7f&height=180&section=header&animation=fadeIn" width="100%"/>
+</p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNINTER, com formação em **Recursos Humanos** e mais de **8 anos de experiência em ambientes corporativos e suporte administrativo**.
+## 💜 Hello, eu sou a Beatriz! | Dev Front-end Júnior
 
-Nos últimos 2 anos, venho construindo minha transição para a área de tecnologia, desenvolvendo soluções práticas que **otimizam processos e facilitam o dia a dia**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**  
+Formada em **Recursos Humanos** e +8 anos de experiência em ambientes corporativos e suporte administrativo  
 
-### 🛠️ Tecnologias 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+Atualmente tenho construído uma nova trajetória na área da tecnologia, por gostar muito de criar soluções que facilitam  
+o meu dia a dia e das pessoas. 😊💻    
+<br>
+<br>
+### 🚀 Stack principal
 
-### 📚 Em evolução
+![HTML](https://img.shields.io/badge/HTML5-2d1c7f?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2d1c7f?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d1c7f?style=for-the-badge\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2d1c7f?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2d1c7f?style=for-the-badge\&logo=figma\&logoColor=white)
+<br>
+<br>
+### 🧠 Em desenvolvimento
 
-Atualmente, estou aprofundando meus conhecimentos em:
-![API](https://img.shields.io/badge/APIs%20REST-02569B?style=flat&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs%20REST-07060f?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07060f?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-07060f?style=for-the-badge\&logo=n8n\&logoColor=white)
+<br>
+<br>
+### 📌 Projetos 
 
-### 📌 Projetos em destaque 
-- 💼 [Portfólio Pessoal](https://beatrizcavalcante-dev.github.io/Dev-Beatriz-Cavalcante/) — Site pessoal responsivo com HTML, CSS e JS
-- 🎵 [WebMusic](https://beatrizcavalcante-dev.github.io/WebMusic/) — Interface de player de música com HTML, CSS e JS
-- 🛒 [Landing-e-commerce](https://beatrizcavalcante-dev.github.io/Landing-e-commerce/) — Landing page de e-commerce com HTML, CSS e JS
-- 📱 [App Protótipo](https://beatrizcavalcante-dev.github.io/App-Prototipo/) — Protótipo de aplicativo mobile com HTML e CSS 
+**Portfólio Pessoal**  
+🔗 https://beatrizcavalcante-dev.github.io/Dev-Beatriz-Cavalcante/  
+→ Desenvolvimento de layout responsivo + organização de projetos  
 
-### 📫 Contato 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/beatrizcavalcantee) 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=github&logoColor=white)](https://beatrizcavalcante-dev.github.io/Dev-Beatriz-Cavalcante/)
+**WebMusic**  
+🔗 https://beatrizcavalcante-dev.github.io/WebMusic/  
+→ Player de música com controle de estado (play/pause e troca de faixa)  
+
+**Landing E-commerce**  
+🔗 https://beatrizcavalcante-dev.github.io/Landing-e-commerce/  
+→ Estrutura de página de vendas com foco em conversão  
+
+**App Protótipo**  
+🔗 https://beatrizcavalcante-dev.github.io/App-Prototipo/  
+→ Interface mobile simulando experiência de aplicativo  
+
+--
+
+### 🎯 Objetivo
+
+Busco minha primeira oportunidade como **Desenvolvedora Front-end Júnior**, onde eu possa:
+✔ Evoluir tecnicamente
+✔ Contribuir com soluções reais
+✔ Aprender com pessoas mais experientes
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d1c7f?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/beatrizcavalcantee)
+[![Portfólio](https://img.shields.io/badge/Portfólio-2d1c7f?style=for-the-badge\&logo=github\&logoColor=white)](https://beatrizcavalcante-dev.github.io/Dev-Beatriz-Cavalcante/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1c7f,100:07060f&height=150&section=footer" width="100%"/>
+</p>
