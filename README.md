@@ -20,9 +20,9 @@ Atualmente, estou aprofundando meus conhecimentos em:
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
 
 ### 📌 Projetos em destaque 
-- 💼 [Portfólio Pessoal](https://beatrizcavalcante-dev.github.io/dev-beatriz-cavalcante/) — Site pessoal responsivo com HTML, CSS e JS
+- 💼 [Portfólio Pessoal](https://beatrizcavalcante-dev.github.io/Dev-Beatriz-Cavalcante/) — Site pessoal responsivo com HTML, CSS e JS
 - 🎵 [WebMusic](https://beatrizcavalcante-dev.github.io/WebMusic/) — Interface de player de música com HTML, CSS e JS
-- 🛒 [DevClub Store](https://beatrizcavalcante-dev.github.io/DevClub/) — Landing page de e-commerce com HTML, CSS e JS
+- 🛒 [Landing-e-commerce](https://beatrizcavalcante-dev.github.io/Landing-e-commerce/) — Landing page de e-commerce com HTML, CSS e JS
 - 📱 [App Protótipo](https://beatrizcavalcante-dev.github.io/App-Prototipo/) — Protótipo de aplicativo mobile com HTML e CSS 
 
 ### 📫 Contato 
