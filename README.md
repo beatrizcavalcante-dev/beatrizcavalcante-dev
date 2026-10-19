@@ -70,7 +70,7 @@ Interface mobile simulando experiência de aplicativo
 <h1>Objetivo</h1>
 <div style="height: 1px; width: 30%; background: linear-gradient(90deg, #2d1c7f, transparent); margin-top: -10px; margin-bottom: 20px;"></div>
 
-Atuar como Desenvolvedora Front-end ou Estágio em Desenvolvimento de Software 💻
+É com muito orgulho que carreho a paixão púrpura fazendo parte do time Vivo! 💻💜
 <br>
 <br>
 <h1>Contato</h1>
