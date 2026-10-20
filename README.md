@@ -8,7 +8,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **UNINTER**.
 Tenho formação em **Recursos Humanos** e mais de **8 anos de experiência** em ambientes corporativos e suporte administrativo.
 <br>
 <br>
-Hoje direciono minha carreira para a tecnologia, desenvolvendo projetos e criando soluções que simplificam processos, automatizam tarefas e tornam o dia a dia mais eficiente. 💜💻     
+Hoje direciono minha carreira para a tecnologia, desenvolvendo projetos e criando soluções que simplificam processos, automatizam tarefas e tornam o dia a dia mais eficiente.     
+<br>
+É com muito orgulho que carreho a paixão púrpura fazendo parte do time Vivo! 💻💜
 <br>
 <br>
 <h1>Habilidades Técnicas</h1>
@@ -67,12 +69,7 @@ Interface mobile simulando experiência de aplicativo
 🔗 [Clique para acessar](https://beatrizcavalcante-dev.github.io/App-Prototipo/  )
 <br>
 <br>
-<h1>Objetivo</h1>
-<div style="height: 1px; width: 30%; background: linear-gradient(90deg, #2d1c7f, transparent); margin-top: -10px; margin-bottom: 20px;"></div>
 
-É com muito orgulho que carreho a paixão púrpura fazendo parte do time Vivo! 💻💜
-<br>
-<br>
 <h1>Contato</h1>
 <div style="height: 1px; width: 30%; background: linear-gradient(90deg, #2d1c7f, transparent); margin-top: -10px; margin-bottom: 20px;"></div>
 
